@@ -1,0 +1,366 @@
+.div1st {
+    position: fixed;
+    top: 48px;
+    bottom: 0px;
+    text-align: center;
+    margin-left: 60px;
+}
+
+.div2 {
+    margin-top: 65px;
+}
+
+
+
+
+
+
+
+.div1 {
+    background-color: blue;
+    display: flex;
+}
+li {
+    display: inline;
+}
+.plist {
+    padding-left: 100px;
+}
+
+span {
+    padding-left: 80px;
+
+}
+button {
+    border: 1px solid black;
+}
+
+.b2 {
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+}
+.collapse  {
+    padding-left: 350px !important;
+}
+.roti {
+    width: 100%;
+}
+.div3 {
+    background-color: blue;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: white;
+}
+.div4 h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 40px;
+
+}
+.img {
+    text-align: center;
+}
+
+.div5 {
+    text-align: justify;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: honeydew;
+}
+
+.p2, .p3, .p4 {
+    padding-top: 20px;
+}
+
+.div6 {
+    background-color: blue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+.subdiv1 {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid blue;
+    font-weight: bold;
+    
+    
+
+}
+
+.subdiv2 {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid blue;
+    padding-left: 40px;
+    font-weight: bold;
+
+    
+
+}
+
+.subdiv3 {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid blue;
+    padding-left: 40px;
+    font-weight: bold;
+
+    
+
+}
+
+
+.subdiv4 {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid blue;
+    padding-left: 40px;
+    font-weight: bold;
+
+    
+    
+
+}
+
+
+.c1 {
+    color: blue;
+}
+
+.c2 {
+    color: green;
+}
+
+.g {
+    color:lightgreen
+}
+
+.div7 {
+    text-align: center;
+}
+
+.subdiv5, .subdiv6 , .subdiv7, .subdiv8, .subdiv9, .subdiv10  {
+    display: inline-block;
+    text-align: center;
+    /* padding-left: 40px;
+    padding-right: 40px; */
+    font-size: 20px;
+    border: 1px solid grey;
+    box-shadow: 10px 10px 4px grey;
+    width: 300px;
+    height: 150px;
+}
+.subdiv5 {
+    /* padding-left: 10px !important; */
+    text-align: center;
+    margin-right: 50px;
+
+}
+
+.subdiv6 {
+    text-align: center;
+    margin-right: 50px;
+
+}
+
+.subdiv7 {
+    text-align: center;
+    margin-right: 50px;
+}
+
+.subdiv8{
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+
+.subdiv9 {
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 40px;
+
+}
+
+.subdiv10 {
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 40px;
+    padding-bottom: 50px;
+}
+
+
+.div8 , .div9 {
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+    
+
+}
+
+
+
+.head {
+    margin-top: 20px;
+}
+
+.midh1 {
+    margin-top: 50px;
+    color: blue;
+}
+
+
+.subdiv11 , .subdiv12 {
+    display: inline-block;
+    color: blue;
+    /* margin-left: 1000px; */
+}
+
+
+.inline {
+    display: inline;
+    padding-left: 20px;
+}
+
+.ssubdiv1 {
+    margin-left: 70px;
+    margin-top: 40px;
+    /* border: 1px solid grey; */
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid white;
+    width: 250px;
+    
+}
+
+
+.ssubdiv2 {
+    margin-left: 70px;
+    margin-top: 40px;
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* padding-right: 0px; */
+    /* width: 50px; */
+    border: 2px solid white;
+    width: 250px;
+
+
+
+
+}
+
+.ssubdiv3 {
+    /* margin-left: 70px; */
+    margin-top: 40px;
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid white;
+
+    
+}
+
+
+.ssubdiv4 {
+    /* margin-left: 70px; */
+    margin-top: 40px;
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid white;
+
+
+
+}
+
+
+/* .upcoming {
+    display:inline-block
+} */
+
+.subdiv13 {
+    display: inline-block;
+}
+
+.align {
+    text-align: top;
+    padding-left: 40px;
+    color: blue;
+}
+
+
+
+.ssubdiv5 {
+    /* display: inline-block; */
+    width: 500px;
+
+}
+
+
+
+/* .pad {
+    padding-left: 500px;
+} */
+
+
+
+.div10 {
+    text-align: center;
+    margin-top: 50px;
+
+}
+.div11 {
+    text-align: center;
+    padding-bottom: 200px;
+
+}
+
+
+
+.div12 {
+    background-color: lightslategray;
+    color: White;
+    font-size: 15px;
+
+}
+
+
+.block1 , .block2 {
+    display: inline-block;
+}
+
+.block1 {
+    margin-left:500px ;
+}
+
+
+
+
+.block2 {
+    margin-left: 200px;
+}
+
+
+.push {
+    margin-left: 750px;
+}
+
+p {
+    font-size: 20px !important;
+}
+
+marquee {
+    font-size: 15px !important;
+}
+
+ul {
+    font-size: 15px !important;
+}
